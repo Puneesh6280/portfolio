@@ -25,11 +25,13 @@
 
     &__text {
       margin-bottom: 2.5rem;
+
     }
 
     &__text,
     a {
       font-size: 2.4rem;
+      color:#ffffff;
 
       // Responsive for contact text
       @include respond(phone) {
