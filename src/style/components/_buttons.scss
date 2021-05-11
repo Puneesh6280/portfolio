@@ -89,14 +89,13 @@
   }
 }
 
-
 /* Arrow Button */
 .top {
-    position: sticky;
+    position: fixed;
     bottom: 20px;
     float: right;
     right: 0%;
-    left: 90%;
+    left: 95%;
     max-width:40px;
     width:100%;
     font-size:12px;
